@@ -1,0 +1,9 @@
+Issue,Petitioner,LowerCourt,Reverse
+EconomicActivity,BUSINESS,liberal,1
+EconomicActivity,BUSINESS,conser,1
+EconomicActivity,CITY,liberal,0
+EconomicActivity,CITY,conser,1
+JudicialPower,BUSINESS,conser,1
+JudicialPower,BUSINESS,liberal,0
+JudicialPower,CITY,conser,1
+JudicialPower,CITY,liberal,0
